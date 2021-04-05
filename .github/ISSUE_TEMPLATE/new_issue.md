@@ -1,3 +1,8 @@
+---
+name: New issue
+about: Use this template when open new issues
+---
+
 ## Before you open an issue:
 
 **Please check if a similar issue already exists or has been closed before.**
