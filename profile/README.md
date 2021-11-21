@@ -1,4 +1,4 @@
-![dotanuki-logo](../.assets/dotanuki-github-cover.jpg)
+![dotanuki-logo](/.assets/dotanuki-github-cover.jpg)
 
 
 Dotanuki Labs is the home of my open-source projects, including experimental tools, demos, research outcomes and more.
@@ -9,7 +9,7 @@ Main areas of interest
 - Build Systems and Build Engineering (specially with Gradle)
 - CI/CD pipelines and automation
 - Security and Supply Chain
-- And more!
+- Etc
 
 ## Why Dotanuki?
 
