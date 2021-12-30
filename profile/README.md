@@ -1,7 +1,4 @@
-![dotanuki-logo](/.assets/dotanuki-github-cover.jpg)
-
-
-Dotanuki Labs is the home of [Ubiratan Soares](https://github.com/ubiratansoares) open-source projects, including experimental tools, demos, researches and more.
+**Dotanuki Labs** is the home of [Ubiratan Soares](https://github.com/ubiratansoares) open-source projects, including experimental tools, demos, researches and more.
 
 Main areas of interest
 
