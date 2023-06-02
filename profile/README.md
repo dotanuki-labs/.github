@@ -1,4 +1,4 @@
-**Dotanuki Labs** is the home of [Ubiratan Soares](https://github.com/ubiratansoares) open-source projects, including experimental tools, demos, researches and more.
+**Dotanuki Labs** is the home of [Ubiratan Soares](https://github.com/ubiratansoares) open-source projects, including experimental tooling, libraries, demos and more, using languages like Kotlin, Python and Rust and others.
 
 Main areas of interest:
 
@@ -7,12 +7,6 @@ Main areas of interest:
 - CI/CD pipelines and automation
 - Infrastructure Security and Software Supply Chain
 - Etc
-
-Main programming languages:
-
-- Kotlin
-- Python
-- Rust
 
 ## Why Dotanuki?
 
