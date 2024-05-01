@@ -2,25 +2,26 @@
 
 ## Before getting started
 
-- Consider giving a star to our repos and become one of our stargazers!
+- Consider giving a star to our repos and become one of our stargazers! 🌟
+- Consider reviewing our [Code of Conduct](https://github.com/dotanuki-labs/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Issues
 
-> [Note]
+> [!NOTE]
 > Before creating a new issue, check whether or not there is an existing related issue.
 
 Issues are very valuable to any Dotanuki Labs project. Please use them to:
 
-- Propose ideas, which are a valuable source of contributions others can make
-- Highlight problems a project has
-- Ask questions about a project
 - Reporting bugs
+- Highlight problems a project has
+- Propose ideas, which are a valuable source of contributions others can make
+- Ask questions about a project
 - Etc
 
 
 ## Pull Requests
 
-> [Note]
+> [!NOTE]
 > Before creating an Pull Request, check whether there is a similar PR in the works or not, or 
 > if there are any issues discussing what you trying to achieve
 
