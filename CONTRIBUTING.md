@@ -1,4 +1,8 @@
-# Contributing
+# General Contribution Guidelines
+
+Thank you for your interest in contributing to Dotanuki's projects ❤️
+
+We thrive with feedback and contributions from our community, whether they are bug reports, new feature requests, small fixes, or additional docs!
 
 ## Before getting started
 
@@ -8,7 +12,11 @@
 ## Issues
 
 > [!NOTE]
-> Before creating a new issue, check whether or not there is an existing related issue.
+> Before creating a new issue, check whether or not there is an existing related issue, either open or closed one
+
+> [!WARN]
+> Please do not submit issues to report Security Vulnerabilities.
+> Instead, check our [Security Guidelines](https://github.com/dotanuki-labs/.github/blob/main/SECURITY.md)
 
 Issues are very valuable to any Dotanuki Labs project. Please use them to:
 
@@ -18,11 +26,10 @@ Issues are very valuable to any Dotanuki Labs project. Please use them to:
 - Ask questions about a project
 - Etc
 
-
 ## Pull Requests
 
 > [!NOTE]
-> Before creating an Pull Request, check whether there is a similar PR in the works or not, or 
+> Before creating an Pull Request, check whether there is a similar PR in the works or not, or
 > if there are any issues discussing what you trying to achieve
 
 Pull requests are a great way to get your ideas into a Dotanuki Labs project.
@@ -31,7 +38,7 @@ When deciding if I merge in a pull request I look at the following things:
 
 ### Does it state intent
 
-You should be clear which problem you're trying to solve with your contribution. Hence, consider 
+You should be clear which problem you're trying to solve with your contribution. Hence, consider
 discussing your problem (and eventually details on your solution) in a issue first.
 
 ### Is it of the expected quality
@@ -41,12 +48,12 @@ discussing your problem (and eventually details on your solution) in a issue fir
 - It is well sized and brings additional comments over code when they are needed
 - It solves one problem and solves it well
 
-You can refer to the `README` and `CONTRIBUTING` documents in a project to learn how to get started 
+You can refer to the `README` and `CONTRIBUTING` documents in a project to learn how to get started
 with local development, and also to learn about specific guidelines per project.
 
 Thank you so much for your PRs 🔥
 
 ## License
 
-Most of Dotanuki Labs projects are license with the [MIT license](http://opensource.org/licenses/MIT), 
+Most of Dotanuki Labs projects are license with the [MIT license](http://opensource.org/licenses/MIT),
 without any additional terms.
