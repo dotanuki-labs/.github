@@ -1,6 +1,6 @@
 Community files for Dotanuki Labs
 
 - Contribution Guidelines
+- Security Policies
 - Code of Conduct
-- Issue template
-- Pull Request template
+- Issue and Pull Request templates
