@@ -16,7 +16,7 @@ Dotanuki actively cares about Open Source Security and Quality.
 >
 > **DO NOT raise GitHub issues to report a security vulnerabilities.**
 
-Please report potential security issues affecting any of our projects to **[ubiratan.soares@protonmail.com](mailto:ubiratan.soares@protonmail.com)**,
+Please report potential security issues affecting any of our projects to **[dotanuki.labs@proton.me](mailto:dotanuki.labs@proton.me)**,
 preferably with a proof of concept.
 
 You will receive a response from us within 24 hours. If the issue is confirmed, we will release a patch as soon as possible.
