@@ -12,7 +12,7 @@ Dotanuki actively cares about Open Source Security and Quality.
 
 ## Reporting a Vulnerability
 
-> [!WARN]
+> [!WARNING]
 >
 > **DO NOT raise GitHub issues to report a security vulnerabilities.**
 

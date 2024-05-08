@@ -14,7 +14,7 @@ We thrive with feedback and contributions from our community, whether they are b
 > [!NOTE]
 > Before creating a new issue, check whether or not there is an existing related issue, either open or closed one
 
-> [!WARN]
+> [!WARNING]
 > Please do not submit issues to report Security Vulnerabilities.
 > Instead, check our [Security Guidelines](https://github.com/dotanuki-labs/.github/blob/main/SECURITY.md)
 

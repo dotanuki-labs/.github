@@ -3,7 +3,7 @@ name: Feature request
 about: Use this template when requesting new features or proposing changes
 ---
 
-> [!WARN]
+> [!WARNING]
 > Before opening a new issue
 > **Please check if a similar issue already exists or has been closed before.**
 

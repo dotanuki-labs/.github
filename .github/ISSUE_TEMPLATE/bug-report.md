@@ -3,7 +3,7 @@ name: New bug report
 about: Use this template when reporting bugs
 ---
 
-> [!WARN]
+> [!WARNING]
 > Before opening a new issue
 > **Please check if a similar issue already exists or has been closed before.**
 
