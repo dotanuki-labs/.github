@@ -32,6 +32,8 @@ Issues are very valuable to any Dotanuki Labs project. Please use them to:
 > Before creating an Pull Request, check whether there is a similar PR in the works or not, or
 > if there are any issues discussing what you trying to achieve
 
+Thank you so much for your PRs 🔥
+
 Pull requests are a great way to get your ideas into a Dotanuki Labs project.
 
 When deciding if I merge in a pull request I look at the following things:
@@ -41,17 +43,35 @@ When deciding if I merge in a pull request I look at the following things:
 You should be clear which problem you're trying to solve with your contribution. Hence, consider
 discussing your problem (and eventually details on your solution) in a issue first.
 
-### Is it of the expected quality
+## General acceptance criteria for Pull Requests
 
-- There are no spelling mistakes and it reads well
-- It builds ( all CI workflows/jobs are green)
+- There are no spelling mistakes on descriptions and code comments
+- It builds (all CI workflows/jobs are green)
 - It is well sized and brings additional comments over code when they are needed
 - It solves one problem and solves it well
 
 You can refer to the `README` and `CONTRIBUTING` documents in a project to learn how to get started
 with local development, and also to learn about specific guidelines per project.
 
-Thank you so much for your PRs 🔥
+## General guidelines for code contributions
+
+> [!WARNING]
+>
+> **Please make it clear whether or not you've used LLM/AI tools to generate code or documentation**
+
+Regarding code contributions of any type, please pay attention to the following guidelines (adapted from [NetBSD guidelines](https://www.netbsd.org/developers/commit-guidelines.html).
+
+In addition, we strongly recommend following an advice from
+[Jesse Wilson](https://github.com/swankjesse),
+who proposes that
+[code changes should be either small or mechanical](https://publicobject.com/2023/01/08/small-or-mechanical/).
+
+Therefore:
+
+- Favor [atomic commits](https://en.wikipedia.org/wiki/Atomic_commit)
+- Contribute with code you are familiar and confortable with
+- Do not commit code snippets got from another codebases
+- Give proper credit when needed (e.g., StackOverflow reference)
 
 ## License
 
