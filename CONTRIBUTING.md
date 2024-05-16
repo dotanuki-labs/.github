@@ -66,7 +66,7 @@ We acknowledge that some use cases favor super-charged code completions driven b
 Regarding code contributions of any type, please pay attention to the following guidelines (adapted from the [NetBSD project](https://www.netbsd.org/developers/commit-guidelines.html))
 
 - Favor [atomic commits](https://en.wikipedia.org/wiki/Atomic_commit)
-- Contribute with code you are familiar and confortable with
+- Contribute with code you are familiar and comfortable with
 - Do not commit code snippets got from another codebases
 - **Do not commit untested code** and favor automated tests when possible
 - Give proper credit when needed (e.g., StackOverflow reference)
