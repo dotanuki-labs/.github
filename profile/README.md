@@ -2,10 +2,10 @@
 
 Main areas of interest:
 
-- Developing tooling, CLI apps
+- Python, Rust, WebAssembly, AI/ML
+- Developer tools, CLI apps
 - Build Systems, CI/CD pipelines,
 - DevSecOps, Software Supply Chain tooling
-- AI/ML
 - Etc
 
 ## Why Dotanuki?
