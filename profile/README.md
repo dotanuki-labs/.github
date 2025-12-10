@@ -1,5 +1,4 @@
-**Dotanuki** is a place for open-source high quality open-source, including experimental tooling,
-libraries, demos and more.
+**Dotanuki Labs** is a space for high quality open-source.
 
 Main areas of focus:
 
@@ -10,8 +9,6 @@ Main areas of focus:
 - Infrastructure automation
 - AI-powered tooling
 - Etc
-
-Curated by [@ubiratansoares](https://github.com/ubiratansoares)
 
 ## Why Dotanuki?
 
